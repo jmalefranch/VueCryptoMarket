@@ -1,4 +1,5 @@
 # vuecrypto
+Version 1.0. I'm working on the V2.0, refactoring the web app into components & using Vuex as state manager.
 
 ## Project setup
 ```
